@@ -13,9 +13,13 @@ You can store your data remotely (in a published Google Sheet) or locally (as a 
 
 To store your data remotely in Google Sheets, go to our template to *File > Make a Copy* and store in your Google Drive. Your Google Sheet must be public and published.
 Click `Share` button, and change permissions to *Anyone on the internet with this link can view*.
-Then go to `File > Publish to the web > Entire Document`,
-and choose `Comma-separated values (.csv)`. Copy and paste the published URL into the `dataLocation`
-variable in the `settings.js` file as shown below.
+Then go to `File > Publish to the web > Places`,
+and choose `Comma-separated values (.csv)` as shown below.
+
+![Screenshot: Publish the Google Sheet *Places* as CSV](publish-places.csv.png)
+
+Copy and paste the published URL into the `dataLocation`
+variable in the `settings.js` file as shown below. Make sure that the long link ends in: `.../pub?gid=0&single=true&output=csv`
 
 ```
 // Where to load data from. Choose either a local file, such as `data/places.csv`,
