@@ -1,11 +1,11 @@
 # cth-leaflet-point-map-sidebar
-CTH Leaflet Point Map with Sidebar with Google Sheets
+Leaflet Point Map with Sidebar with Google Sheets -- Best to display points as custom thumbnail photo icons, organized by category, with a sidebar to show a multi-paragraph description and multi-image gallery for each point. Edit and host all text in a linked Google Sheet or CSV file, with pathnames to images stored in your GitHub repo.
 
 ![Preview](preview.png)
 
-Demo: https://jackdougherty.github.io/cth-leaflet-point-map-sidebar
+CTH Demo: https://jackdougherty.github.io/cth-leaflet-point-map-sidebar
 
-Google Sheet: https://docs.google.com/spreadsheets/d/1h1rJa-fshPbuzaqabQUjIDmuM2O6f5K0KPEvaAQT568/edit#gid=0
+CTH Google Sheet: https://docs.google.com/spreadsheets/d/1h1rJa-fshPbuzaqabQUjIDmuM2O6f5K0KPEvaAQT568/edit#gid=0
 
 Created by Ilya Ilyankou and Jack Dougherty. Learn more and see related Leaflet map templates with Google Sheets in our book, Hands-On Data Visualization: https://handsondataviz.org/leaflet.html
 
