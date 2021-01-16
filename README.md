@@ -5,7 +5,7 @@ Leaflet Point Map with Sidebar with Google Sheets -- Best to display points as c
 
 CTH Demo: https://jackdougherty.github.io/cth-leaflet-point-map-sidebar
 
-CTH Google Sheet: https://docs.google.com/spreadsheets/d/1h1rJa-fshPbuzaqabQUjIDmuM2O6f5K0KPEvaAQT568/edit#gid=0
+CTH Google Sheet: https://docs.google.com/spreadsheets/d/1SkuLmuR6jmkc34lspuHk4GED0hpYM9z0pzWyF0-2MtM/edit#gid=0
 
 Created by Ilya Ilyankou and Jack Dougherty. Learn more and see related Leaflet map templates with Google Sheets in our book, Hands-On Data Visualization: https://handsondataviz.org/leaflet.html
 
